@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **QA Development**
 
-- 👨‍💻 Example of [Projects](https://github.com/RamiHammouda?tab=projects)
+- 👨‍💻 Example of [Projects](https://github.com/RamiHammouda?tab=repositories)
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/rami-hammouda-264777163/)
 
