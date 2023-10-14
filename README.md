@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **QA Development**
 
-- 👨‍💻 Example of projects [[https://github.com/RamiHammouda?tab=projects](https://github.com/RamiHammouda?tab=repositories)](Projects)
+- 👨‍💻 Example of [Projects](https://github.com/RamiHammouda?tab=projects)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rami-hammouda-264777163/](LinkedIn)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/rami-hammouda-264777163/)
 
 - 💬 Ask me anything about **Software and Hardware Development**
 
