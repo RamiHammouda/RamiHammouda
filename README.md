@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Rami Hammouda</h1>
+<div align="center"><img src="https://i.ibb.co/Jy2qPcb/5682.jpg"></div>
 <h3 align="center">A full-stack developer based in Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramihammouda&label=Profile%20views&color=0e75b6&style=flat" alt="ramihammouda" /> </p>
