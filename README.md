@@ -27,13 +27,13 @@
   
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=ramihammouda&show_icons=true&locale=en&layout=compact" alt="ramihammouda"/>
+  <img width=430 src="https://github-readme-stats.vercel.app/api?username=ramihammouda&show_icons=true&locale=en" alt="ramihammouda" />
+  <br/>
+  <img width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramihammouda&hide=HTML&langs_count=8&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="ramihammouda" />
 </div>
-<p><div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramihammouda&show_icons=true&locale=en&layout=compact" width="355" alt="ramihammouda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramihammouda&show_icons=true&locale=en" alt="ramihammouda" /></div></p>
-
-<p><div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramihammouda&" alt="ramihammouda" /></div></p>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=0B5EC5&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
